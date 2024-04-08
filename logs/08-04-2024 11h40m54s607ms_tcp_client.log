@@ -1,0 +1,9 @@
+08-04-2024 11:40:54:843 tcp_client [INFO] : inici client http
+08-04-2024 11:40:54:849 tcp_client [INFO] : inici HTTPclient.get 
+08-04-2024 11:40:54:849 tcp_client [INFO] : HTTP server_address: labxarxes.techlab.uoc.edu
+08-04-2024 11:40:54:849 tcp_client [INFO] : HTTP server_port: 80
+08-04-2024 11:40:55:067 tcp_client [INFO] : HTTPrequestResponse [peticio=GET /xai/xai.html HTTP/1.0
+Host: labxarxes.techlab.uoc.edu
+Accept: text/html
+
+, resposta=HTTP/1.1 200 OK\r\nDate: Mon, 08 Apr 2024 09:40:54 GMT\r\nServer: Apache/2.4.52 (Ubuntu)\r\nLast-Modified: Fri, 07 Oct 2022 08:08:49 GMT\r\nETag: "268-5ea6d51dbf9d7"\r\nAccept-Ranges: bytes\r\nContent-Length: 616\r\nVary: Accept-Encoding\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n\r\n<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"><style></style></head><body><u></u>\r\n\r\n	\r\n	\r\n	\r\n\r\n<div dir="LTR" lang="ca-ES">\r\n\r\n    <h1 class="m_western">Universitat Oberta de Catalunya</h1>\r\n  <p span="" lang="ca-ES"><b>Xarxes i Aplicacions Internet</b>\r\n  <p span="" lang="ca-ES"><em>Networks and Internet Applications</em>\r\n  <p span="" lang="ca-ES">Redes y Aplicaciones Internet\r\n  <p span="" lang="ca-ES"><b>Sistemes d&#39;Internet</b>\r\n  <p span="" lang="ca-ES">Sistemas de Internet\r\n\r\n</p></p></p></p></p></div>\r\n</body></html>\r\n]

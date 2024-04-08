@@ -1,0 +1,9 @@
+08-04-2024 11:40:07:582 tcp_client [INFO] : inici client http
+08-04-2024 11:40:07:587 tcp_client [INFO] : inici HTTPclient.get 
+08-04-2024 11:40:07:588 tcp_client [INFO] : HTTP server_address: labxarxes.techlab.uoc.edu
+08-04-2024 11:40:07:588 tcp_client [INFO] : HTTP server_port: 80
+08-04-2024 11:40:07:823 tcp_client [INFO] : HTTPrequestResponse [peticio=GET /xai/xai.html HTTP/1.0
+Host: labxarxes.techlab.uoc.edu
+Accept: text/html
+
+, resposta=HTTP/1.1 200 OK]
